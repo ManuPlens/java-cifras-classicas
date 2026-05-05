@@ -36,3 +36,5 @@ Emanuelly Plens Santana
 ## 📌 Observações
 
 Este projeto tem fins educacionais e não deve ser utilizado para segurança real, pois os algoritmos implementados são considerados inseguros para aplicações modernas.
+
+04/05/2026
